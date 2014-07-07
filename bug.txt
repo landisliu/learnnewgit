@@ -1,1 +1,2 @@
 This is information from bug2
+This is information from bug1
