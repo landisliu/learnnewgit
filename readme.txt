@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Add a new branch
 haha this is a new branch on dev.
 infomation added from learngitcopy	
+information added from learngit
