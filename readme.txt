@@ -5,3 +5,4 @@ Add a new branch
 haha this is a new branch on dev.
 infomation added from learngitcopy	
 information added from learngit
+a new line from feature 1
